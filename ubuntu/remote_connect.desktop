@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Remote Connect
+Exec=sh -c "cd /home/strawberryrabbit/Apps/remote_connect/ubuntu/ && ./remote_connect.sh"
+Terminal=true
+Icon=utilities-terminal
+
