@@ -13,4 +13,4 @@
 ### 2. Enter your server
 ![image](https://github.com/user-attachments/assets/9b2afa8d-c58b-4836-b490-4d6d8bbec639)
 ### 3. Connected!!
-![image](https://github.com/user-attachments/assets/4746fa38-a0d4-4fbe-8ff3-a0ef4b987762)
+![image](https://github.com/user-attachments/assets/27a28da1-592f-4db7-84df-620f17a1cd1c)
